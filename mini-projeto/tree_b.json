@@ -1,0 +1,105 @@
+{
+  "data": "Você está com dor de cabeça?",
+  "yes": {
+    "data": "Você está com coriza?",
+    "yes": {
+      "data": "Você tem 80% de chances de estar com SINUSITE. Digite y para continuar ou encerrar."
+    },
+    "no": {
+      "data": "Você está apresentando cansaço?",
+      "yes": {
+        "data": "Você tem 95% de chances de estar com MONONUCLEOSE INFECCIOSA. Digite y para continuar ou encerrar."
+      },
+      "no": {
+        "data": "Você está com a garganta inflamada?",
+        "yes": {
+          "data": "Você está tossindo?",
+          "yes": {
+            "data": "Você tem 90% de chances de estar com GRIPE. Digite y para continuar ou encerrar."
+          },
+          "no": {
+            "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+          }
+        },
+        "no": {
+          "data": "Você está com fadiga?",
+          "yes": {
+            "data": "Você está com dores no corpo?",
+            "yes": {
+              "data": "Você está com ocasionais dores na garganta?",
+              "yes": {
+                "data": "Você está com ocasionais tosses?",
+                "yes": {
+                  "data": "Você tem 80% de chances de estar com COVID19. Digite y para continuar ou encerrar."
+                },
+                "no": {
+                  "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+                }
+              },
+              "no": {
+                "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+              }
+            },
+            "no": {
+              "data": "Você está com a pulsação elevada?",
+              "yes": {
+                "data": "Você está com baixo nível de oxigênio?",
+                "yes": {
+                  "data": "Você está com perda de olfato?",
+                  "yes": {
+                    "data": "Você está com perda de paladar?",
+                    "yes": {
+                      "data": "Você tem 90% de chances de estar com COVID19. Digite y para continuar ou encerrar."
+                    },
+                    "no": {
+                      "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+                    }
+                  },
+                  "no": {
+                    "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+                  }
+                },
+                "no": {
+                  "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+                }
+              },
+              "no": {
+                "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+              }
+            }
+          },
+          "no": {
+            "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+          }
+        }
+      }
+    }
+  },
+  "no": {
+    "data": "Você está apresentando cansaço?",
+    "yes": {
+      "data": "Você está com a garganta inflamada?",
+      "yes": {
+        "data": "Você tem 90% de chances de estar com AMIGDALITE. Digite y para continuar ou encerrar."
+      },
+      "no": {
+        "data": "Você tem 70% de chances de estar com ESTRESSE. Digite y para continuar ou encerrar."
+      }
+    },
+    "no": {
+      "data": "Você está com coriza?",
+      "yes": {
+        "data": "Você está espirrando?",
+        "yes": {
+          "data": "Você tem 85% de chances de estar com RINITE ALÉRGICA. Digite y para continuar ou encerrar."
+        },
+        "no": {
+          "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+        }
+      },
+      "no": {
+        "data": "Desculpe, não sei diagnosticar. Digite y para continuar ou encerrar."
+      }
+    }
+  }
+}
