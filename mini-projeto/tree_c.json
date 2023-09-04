@@ -1,0 +1,1221 @@
+[
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "$15 a $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Alta",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Moderado"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$15 a $35k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Boa",
+      "Divida": "Alta",
+      "Garantia": "Adequada",
+      "Renda": "Acima de $35k",
+      "Risco": "Baixo"
+    },
+    {
+      "Hist_Cred": "Ruim",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "$0 a $15k",
+      "Risco": "Alto"
+    },
+    {
+      "Hist_Cred": "Desconhecida",
+      "Divida": "Baixa",
+      "Garantia": "Nenhuma",
+      "Renda": "Acima de $35k",
+      "Risco": "Alto"
+    }
+  ]
+  
