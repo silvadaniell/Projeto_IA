@@ -1,11 +1,15 @@
 # Projeto_IA
 
-## Mini-Projeto IA
+### Mini-Projeto IA
 
-## Alunos:
-## Daniel José da Silva
-## Wallace Lins Casado de Sousa
-## ITALLO RAMON VEIGA PARANHOS
+Alunos:
 
-## Professor: Evandro de Barros Costa
-## Disciplina: Inteligência Artificial
+Daniel José da Silva
+
+Wallace Lins Casado de Sousa
+
+ITALLO RAMON VEIGA PARANHOS
+
+Professor: Evandro de Barros Costa
+
+Disciplina: Inteligência Artificial
