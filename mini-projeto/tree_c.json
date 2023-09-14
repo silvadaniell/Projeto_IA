@@ -1,0 +1,57 @@
+{
+    "data":  "Renda entre 0 e 15k?",
+    "yes": {
+      "data": "Risco alto! Digite y para continuar ou encerrar."
+    },
+    "no":{
+      "data": "Renda entre 15k e 35k?",
+      "yes":{
+        "data": "Histórico de crédito nenhum?",
+        "yes":{
+          "data": "Divida alta?",
+          "yes": {
+            "data": "Risco alto!"
+          },
+          "no":{
+            "data": "Divida Baixa?",
+            "yes" :{
+              "data" :"Risco Moderado!"
+            }
+          }
+        },
+        "no":{
+          "data" :"Histórico de crédito ruim?",
+          "yes" :{
+            "data": "Risco Alto!"
+          },
+          "no":{
+            "data": "Histórico de crédito bom",
+            "yes":{
+              "data":"Risco moderado"
+          }
+        }
+      }
+    },
+    "no":{
+      "data" : "Renda acima de 35k?",
+      "yes" :{
+        "data" : "Histórico de crédito nenhum?",
+        "yes" :{
+          "data": "Risco baixo!"
+        },
+        "no":{
+          "data" : "Histórico de crédito ruim?",
+          "yes":{
+            "data" :"Risco Moderado!"
+          },
+          "no":{
+            "data" : "Histórico de crédito bom",
+            "yes":{
+              "data": "Risco baixo!"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "data": "Você é um flamingo?",
+  "yes": {
+    "data": "Então você é uma ave, tem pernas longas, pescoço comprido e cauda curta"
+  },
+  "no": {
+    "data": "Você é uma galinha?",
+    "yes": {
+      "data": "Então você é uma ave, tem corpo arredondado, penas densas, não voa e é doméstico"
+    },
+    "no": {
+      "data": "Você é um albatroz?",
+      "yes": {
+        "data": "Então você é uma ave e um bom voador"
+      },
+      "no": {
+        "data": "Você é um pinguim?",
+        "yes": {
+          "data": "Então você é uma ave, não voa, nada e é preto e branco"
+        },
+        "no": {
+          "data": "Você é um avestruz?",
+          "yes": {
+            "data": "Então você é uma ave, tem pernas longas, pescoço comprido e é preto e branco"
+          },
+          "no": {
+            "data": "Você é uma zebra?",
+            "yes": {
+              "data": "Então você é ungulado, tem cor branca e listras pretas"
+            },
+            "no": {
+              "data": "Você é uma girafa?",
+              "yes": {
+                "data": "Então você é ungulado, tem pernas longas, pescoço comprido, cor amarelo-tostado e manchas escuras"
+              },
+              "no": {
+                "data": "Você é um tigre?",
+                "yes": {
+                  "data": "Então você é carnívoro, tem cor amarelo-tostado e listras pretas"
+                },
+                "no": {
+                  "data": "Você é um leopardo?",
+                  "yes": {
+                    "data": "Então você é carnívoro, tem cor amarelo-tostado e manchas escuras"
+                  },
+                  "no": {
+                    "data": "Você é ungulado?",
+                    "yes": {
+                      "data": "Então você é um mamífero, rumina, tem dedos pares e tem casco"
+                    },
+                    "no": {
+                      "data": "Você é carnívoro?",
+                      "yes": {
+                        "data": "Então você é um mamífero, tem dentes pontiagudos, garras, seus olhos são frontais e come carne"
+                      },
+                      "no": {
+                        "data": "Você é uma ave?",
+                        "yes": {
+                          "data": "Então você voa, bota ovos e tem penas"
+                        },
+                        "no": {
+                          "data": "Você é um mamífero?",
+                          "yes": {
+                            "data": "Então você dá leite e tem pelo"
+                          },
+                          "no": {
+                            "data": "Desculpe, não sei que animal é"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
