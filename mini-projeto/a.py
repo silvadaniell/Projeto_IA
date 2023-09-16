@@ -27,7 +27,7 @@ def start(node):
     if not ask(f"{node.data}?"):
         print("Desculpe, não sei que animal é")
     else:
-        print("Você conhece seus animais!")
+        print("Te peguei!")
 
 if __name__ == "__main__":
     with open('tree_a.json', 'r') as file:
@@ -35,7 +35,7 @@ if __name__ == "__main__":
         root = Node(tree_data['data'])
         build_tree(root, tree_data)
 
-    print("Diga y para sim ou n para não às minhas perguntas e eu descobrirei suas características.")
+    print("Diga y para sim ou n para não às minhas perguntas e eu descobrirei qual animal você é.")
 
     while ask("Você quer jogar?"):
         node = root
