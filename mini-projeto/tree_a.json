@@ -1,81 +1,82 @@
 {
-  "data": "Você é um flamingo?",
+  "data": "Você voa, bota ovos e tem penas?",
   "yes": {
-    "data": "Então você é uma ave, tem pernas longas, pescoço comprido e cauda curta"
-  },
-  "no": {
-    "data": "Você é uma galinha?",
-    "yes": {
-      "data": "Então você é uma ave, tem corpo arredondado, penas densas, não voa e é doméstico"
+    "data": "Você tem pernas longas, pescoço comprido e cauda curta?",
+    "yes":{
+      "data": "Então você é um flamingo"
     },
-    "no": {
-      "data": "Você é um albatroz?",
-      "yes": {
-        "data": "Então você é uma ave e um bom voador"
+    "no":{
+      "data": "Você tem tem corpo arredondado, penas densas, não voa e é doméstico?",
+      "yes":{
+        "data": "Então você é uma galinha"
       },
-      "no": {
-        "data": "Você é um pinguim?",
-        "yes": {
-          "data": "Então você é uma ave, não voa, nada e é preto e branco"
+      "no":{
+        "data": "Você é um bom voador??",
+        "yes":{
+          "data": "Então você é um albatroz"
         },
-        "no": {
-          "data": "Você é um avestruz?",
-          "yes": {
-            "data": "Então você é uma ave, tem pernas longas, pescoço comprido e é preto e branco"
+        "no":{
+          "data": "Você não voa, nada e é preto e branco?",
+          "yes":{
+            "data": "Então você é um pinguim"
           },
-          "no": {
-            "data": "Você é uma zebra?",
-            "yes": {
-              "data": "Então você é ungulado, tem cor branca e listras pretas"
+          "no":{
+            "data": "Você tem pernas longas, pescoço comprido e é preto e branco?",
+            "yes":{
+              "data": "Então você é um avestruz"
             },
-            "no": {
-              "data": "Você é uma girafa?",
-              "yes": {
-                "data": "Então você é ungulado, tem pernas longas, pescoço comprido, cor amarelo-tostado e manchas escuras"
-              },
-              "no": {
-                "data": "Você é um tigre?",
-                "yes": {
-                  "data": "Então você é carnívoro, tem cor amarelo-tostado e listras pretas"
-                },
-                "no": {
-                  "data": "Você é um leopardo?",
-                  "yes": {
-                    "data": "Então você é carnívoro, tem cor amarelo-tostado e manchas escuras"
-                  },
-                  "no": {
-                    "data": "Você é ungulado?",
-                    "yes": {
-                      "data": "Então você é um mamífero, rumina, tem dedos pares e tem casco"
-                    },
-                    "no": {
-                      "data": "Você é carnívoro?",
-                      "yes": {
-                        "data": "Então você é um mamífero, tem dentes pontiagudos, garras, seus olhos são frontais e come carne"
-                      },
-                      "no": {
-                        "data": "Você é uma ave?",
-                        "yes": {
-                          "data": "Então você voa, bota ovos e tem penas"
-                        },
-                        "no": {
-                          "data": "Você é um mamífero?",
-                          "yes": {
-                            "data": "Então você dá leite e tem pelo"
-                          },
-                          "no": {
-                            "data": "Desculpe, não sei que animal é"
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
+            "no":{
+              "data": "Desculpe, não sei que animal é (responda 'n')"
             }
-          }
         }
       }
+    }
+  }
+},
+  "no": {
+    "data": "Você dá leite e tem pelo?",
+    "yes": {
+      "data": "Você rumina, tem dedos pares e tem casco?",
+      "yes":{
+        "data": "Você tem cor branca e listras pretas?",
+        "yes": {
+          "data": "Então você é uma zebra"
+        },
+        "no":{
+          "data": "Você tem pernas longas, pescoço comprido, cor amarelo-tostado e manchas escuras?",
+          "yes": {
+            "data": "Então você é uma girafa"
+          },
+          "no":{
+            "data": "Desculpe, não sei que animal é (responda 'n')"
+          }
+        }
+      }, 
+      
+      "no":{
+        "data": "Você tem dentes pontiagudos, garras, seus olhos são frontais e come carne?",
+        "yes":{
+          "data": "Você tem cor amarelo-tostado e listras pretas?",
+          "yes": {
+            "data": "Então você é um tigre"
+          },
+          "no":{
+            "data": "Você tem cor amarelo-tostado e manchas escuras?",
+            "yes": {
+              "data": "Então você é um leopardo"
+            },
+            "no":{
+              "data": "Desculpe, não sei que animal é (responda 'n')"
+            }
+          }
+        },
+        "no":{
+          "data": "Desculpe, não sei que animal é (responda 'n')"
+        }
+      }
+    },
+    "no": {
+          "data": "Desculpe, não sei que animal é (responda 'n')"
     }
   }
 }
