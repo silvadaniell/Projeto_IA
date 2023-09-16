@@ -13,3 +13,8 @@ ITALLO RAMON VEIGA PARANHOS
 Professor: Evandro de Barros Costa
 
 Disciplina: Inteligência Artificial
+
+Para executar nosso motor: 
+ ```
+ python <nomedoarquivo>.py 
+ ```

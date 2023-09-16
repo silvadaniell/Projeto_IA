@@ -35,7 +35,7 @@ if __name__ == "__main__":
         root = Node(tree_data['data'])
         build_tree(root, tree_data)
 
-    print("Diga y para sim ou n para não às minhas perguntas e eu decubro se voce pode ter um emprestimo.")
+    print("Diga y para sim ou n para não às minhas perguntas e eu descubro se voce pode ter um emprestimo.")
 
     while ask("Deseja iniciar?"):
         node = root
