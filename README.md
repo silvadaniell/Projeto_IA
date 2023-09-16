@@ -14,7 +14,8 @@ Professor: Evandro de Barros Costa
 
 Disciplina: Inteligência Artificial
 
-Para executar nosso motor: 
+Para executar nosso motor, com o terminal aberto dentro da pasta "nosso motor":
+
  ```
  python <nomedoarquivo>.py 
  ```
